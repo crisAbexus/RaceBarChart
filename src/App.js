@@ -12,6 +12,14 @@ async function drawRace(svg, data) {
   const barSize = 48;
   const duration = 250;
   const margin = ({ top: 16, right: 6, bottom: 6, left: 0 });
+  const n = 12;
+
+  const x = d3.scaleLinear([0, 1], [margin.left, width - margin.right])
+  const y = d3.scaleBand().domain(d3.range(n + 1))
+    .rangeRound([margin.top, margin.top + barSize * (n + 1 + 0.1)])
+    .padding(0.1)
+
+  const height = margin.top + barSize * n + margin.bottom
 
 
   console.log('App.js - drawRace - data:');
@@ -22,8 +30,6 @@ async function drawRace(svg, data) {
 
   console.log('App.js - data.filter(d => d.name === \'Heineken\'):');
   console.log(data.filter(d => d.name === 'Heineken'));
-
-  const n = 12;
 
   console.log('App.js - n:');
   console.log(n);
@@ -55,8 +61,38 @@ async function drawRace(svg, data) {
   console.log(k);
 
   const nkeyframes = keyframes(datevalues, k, names, n);
+
+
   console.log('App.js - nkeyframes:');
   console.log(nkeyframes);
+
+  const nameframes = d3array.groups(nkeyframes.flatMap(([, data]) => data), d => d.name);
+
+  console.log('App.js - nameframes:');
+  console.log(nameframes);
+
+  const prev = new Map(nameframes.flatMap(([, data]) => d3.pairs(data, (a, b) => [b, a])));
+
+  console.log('App.js - prev:');
+  console.log(prev);
+
+  const next = new Map(nameframes.flatMap(([, data]) => d3.pairs(data)));
+  console.log('App.js - next:');
+  console.log(next);
+
+  const formatNumber = d3.format(",d")
+  console.log('App.js - formatNumber:');
+  console.log(formatNumber);
+
+  const color = () => {
+    const scale = d3.scaleOrdinal(d3.schemeTableau10);
+    if (data.some(d => d.category !== undefined)) {
+      const categoryByName = new Map(data.map(d => [d.name, d.category]))
+      scale.domain(Array.from(categoryByName.values()));
+      return d => scale(categoryByName.get(d.name));
+    }
+    return d => scale(d.name);
+  }
 
 }
 
@@ -77,7 +113,7 @@ export default function App() {
         console.log('App.js - autoType:');
         console.log(autoType);
         data[idx].date = autoType
-      
+
       })
       console.log('App.js - data:');
       console.log(data);
