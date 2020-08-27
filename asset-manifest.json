@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RaceBarChart/static/css/main.5f361e03.chunk.css",
+    "main.js": "/RaceBarChart/static/js/main.c7559f71.chunk.js",
+    "main.js.map": "/RaceBarChart/static/js/main.c7559f71.chunk.js.map",
+    "runtime-main.js": "/RaceBarChart/static/js/runtime-main.ea667c48.js",
+    "runtime-main.js.map": "/RaceBarChart/static/js/runtime-main.ea667c48.js.map",
+    "static/js/2.97a0c57c.chunk.js": "/RaceBarChart/static/js/2.97a0c57c.chunk.js",
+    "static/js/2.97a0c57c.chunk.js.map": "/RaceBarChart/static/js/2.97a0c57c.chunk.js.map",
+    "index.html": "/RaceBarChart/index.html",
+    "precache-manifest.ef2ec57608b0488395c2e23f5a8a415e.js": "/RaceBarChart/precache-manifest.ef2ec57608b0488395c2e23f5a8a415e.js",
+    "service-worker.js": "/RaceBarChart/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/RaceBarChart/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.97a0c57c.chunk.js.LICENSE.txt": "/RaceBarChart/static/js/2.97a0c57c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea667c48.js",
+    "static/js/2.97a0c57c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c7559f71.chunk.js"
+  ]
+}
