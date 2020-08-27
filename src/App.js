@@ -86,7 +86,7 @@ async function drawRace(svg, data) {
       .data(data.slice(0, n), d => d.name)
       .join(
         enter => enter.append("rect")
-          .attr("fill", color)
+          .attr("fill", color())
           .attr("height", y.bandwidth())
           .attr("x", x(0))
           .attr("y", d => y((prev.get(d) || d).rank))
@@ -145,9 +145,11 @@ async function drawRace(svg, data) {
     .padding(0.1)
 
   const height = margin.top + barSize * n + margin.bottom
+  
+  console.log('App.js - height:');
+  console.log(height);
 
-
-  svg.attr("viewBox", [0, 0, width, height]);
+  svg.attr("viewBox", [0, 150, width, height]);
 
   const updateBars = bars(svg);
   const updateAxis = axis(svg);
