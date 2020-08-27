@@ -24,8 +24,8 @@ async function drawRace(svg, data) {
   const nkeyframes = keyframes(datevalues, k, names, n);
 
   function ticker(svg) {
-    console.log('App.js - svg:');
-    console.log(svg);
+
+
     const now = svg.append("text")
       .style("font", `bold ${barSize}px var(--sans-serif)`)
       .style("font-variant-numeric", "tabular-nums")
@@ -58,6 +58,24 @@ async function drawRace(svg, data) {
       g.select(".domain").remove();
     };
   }
+
+  const color = () => {
+    const scale = d3.scaleOrdinal(d3.schemeTableau10);
+    if (data.some(d => d.category !== undefined)) {
+      const categoryByName = new Map(data.map(d => [d.name, d.category]))
+      scale.domain(Array.from(categoryByName.values()));
+      return d => scale(categoryByName.get(d.name));
+    }
+    return d => scale(d.name);
+  }
+
+  const nameframes = d3array.groups(nkeyframes.flatMap(([, data]) => data), d => d.name);
+
+  const prev = new Map(nameframes.flatMap(([, data]) => d3.pairs(data, (a, b) => [b, a])));
+
+  const next = new Map(nameframes.flatMap(([, data]) => d3.pairs(data)));
+
+  const formatNumber = d3.format(",d")
 
   function bars(svg) {
     let bar = svg.append("g")
@@ -136,7 +154,9 @@ async function drawRace(svg, data) {
   const updateLabels = labels(svg);
   const updateTicker = ticker(svg);
 
-  for (const keyframe of keyframes) {
+
+
+  for (const keyframe of nkeyframes) {
     const transition = svg.transition()
       .duration(duration)
       .ease(d3.easeLinear);
@@ -151,71 +171,6 @@ async function drawRace(svg, data) {
 
     await transition.end();
   }
-
-
-  console.log('App.js - drawRace - data:');
-  console.log(data);
-
-  console.log('App.js - d3array.group(data, d => d.name):');
-  console.log(d3array.group(data, d => d.name));
-
-  console.log('App.js - data.filter(d => d.name === \'Heineken\'):');
-  console.log(data.filter(d => d.name === 'Heineken'));
-
-  console.log('App.js - n:');
-  console.log(n);
-
-  console.log('App.js - names:');
-  console.log(names);
-
-  console.log('App.js - d3array.rollup(data, ([d])=> d):');
-  console.log(d3array.rollup(data, ([d]) => d));
-
-  console.log('App.js - d3array.rollup(data, ([d]) => d.value, d => +d.date, d => d.name):');
-  console.log(d3array.rollup(data, ([d]) => d.value, d => d.date, d => d.name));
-
-
-
-  console.log('App.js - Array.from(d3array.rollup(data, ([d]) => d.value, d => +d.date, d => d.name)):');
-  console.log(Array.from(d3array.rollup(data, ([d]) => d.value, d => +d.date, d => d.name)));
-
-  console.log('App.js - datevalues:');
-  console.log(datevalues);
-
-  console.log('App.js - k:');
-  console.log(k);
-
-  console.log('App.js - nkeyframes:');
-  console.log(nkeyframes);
-
-  const nameframes = d3array.groups(nkeyframes.flatMap(([, data]) => data), d => d.name);
-
-  console.log('App.js - nameframes:');
-  console.log(nameframes);
-
-  const prev = new Map(nameframes.flatMap(([, data]) => d3.pairs(data, (a, b) => [b, a])));
-
-  console.log('App.js - prev:');
-  console.log(prev);
-
-  const next = new Map(nameframes.flatMap(([, data]) => d3.pairs(data)));
-  console.log('App.js - next:');
-  console.log(next);
-
-  const formatNumber = d3.format(",d")
-  console.log('App.js - formatNumber:');
-  console.log(formatNumber);
-
-  const color = () => {
-    const scale = d3.scaleOrdinal(d3.schemeTableau10);
-    if (data.some(d => d.category !== undefined)) {
-      const categoryByName = new Map(data.map(d => [d.name, d.category]))
-      scale.domain(Array.from(categoryByName.values()));
-      return d => scale(categoryByName.get(d.name));
-    }
-    return d => scale(d.name);
-  }
-
 }
 
 export default function App() {
@@ -225,20 +180,12 @@ export default function App() {
     async function loadData() {
       const csv = await d3.csv('category-brands.csv')
       let data = csv
-      console.log('App.js - csv:');
-      console.log(csv);
       csv.forEach((d, idx) => {
         let date = new Date(d.date);
-        console.log(`App.js - date.toLocaleString('en-CA').split(',')[0]:`);
-        console.log(date.toLocaleString('en-CA').split(',')[0]);
         const autoType = d3.autoType(date);
-        console.log('App.js - autoType:');
-        console.log(autoType);
         data[idx].date = autoType
 
       })
-      console.log('App.js - data:');
-      console.log(data);
       setData(data)
     }
     loadData();
@@ -246,16 +193,10 @@ export default function App() {
   }, []);
 
   const svgRef = useD3(anchor => {
-    console.log('App.js - anchor:');
-    console.log(anchor);
     if (data !== null) {
-      console.log('data:');
-      console.log(data)
-
       drawRace(d3.select(anchor), data)
     }
   });
-
   return (
     <div className="App">
       <svg width='1024' height='1024' ref={svgRef} />
