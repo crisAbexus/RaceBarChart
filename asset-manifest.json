@@ -14,9 +14,9 @@
     "static/js/2.881f95c4.chunk.js.LICENSE.txt": "/RaceBarChart/static/js/2.881f95c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.314deb5e.js",
-    "static/js/2.881f95c4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.accc05b3.chunk.js"
+    "/RaceBarChart/static/js/runtime-main.314deb5e.js",
+    "/RaceBarChart/static/js/2.881f95c4.chunk.js",
+    "/RaceBarChart/static/css/main.5f361e03.chunk.css",
+    "/RaceBarChart/static/js/main.accc05b3.chunk.js"
   ]
 }
