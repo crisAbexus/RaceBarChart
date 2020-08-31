@@ -1,24 +1,24 @@
 date,name,category,value
-2000-01-01,San Juan,Beverages,72537
-2000-01-01,Aguada,Technology,70196
-2000-01-01,Aguadilla,Business Services,53183
-2000-01-01,Aguas Buenas,Technology,39048
-2000-01-01,Adjuntas,Technology,38528
-2000-01-01,Aibonito,Diversified,38127
-2000-01-01,Añasco,Automotive,36368
-2000-01-01,Bayamón,Media,33553
-2000-01-01,Arecibo,Restaurants,27859
-2000-01-01,Arroyo,Telecommunications,25548
-2000-01-01,Barceloneta,Tobacco,22110
-2000-01-01,Barranquitas,Automotive,21104
-2000-01-01,Cabo Rojo,Electronics,20572
+2000-01-01,Coca-Cola,Beverages,72537
+2000-01-01,Microsoft,Technology,70196
+2000-01-01,IBM,Business Services,53183
+2000-01-01,Intel,Technology,39048
+2000-01-01,Nokia,Technology,38528
+2000-01-01,GE,Diversified,38127
+2000-01-01,Ford,Automotive,36368
+2000-01-01,Disney,Media,33553
+2000-01-01,McDonald's,Restaurants,27859
+2000-01-01,AT&T,Telecommunications,25548
+2000-01-01,Marlboro,Tobacco,22110
+2000-01-01,Mercedes-Benz,Automotive,21104
+2000-01-01,HP,Electronics,20572
 2000-01-01,Cisco,Business Services,20067
-2000-01-01,Caguas,Automotive,18823
-2000-01-01,Camuy,Financial Services,18809
-2000-01-01,Canóvanas,FMCG,17358
-2000-01-01,Carolina,Electronics,16409
-2000-01-01,Cataño,Financial Services,16122
-2000-01-01,Cayey,Automotive,15244
+2000-01-01,Toyota,Automotive,18823
+2000-01-01,Citi,Financial Services,18809
+2000-01-01,Gillette,FMCG,17358
+2000-01-01,Sony,Electronics,16409
+2000-01-01,American Express,Financial Services,16122
+2000-01-01,Honda,Automotive,15244
 2000-01-01,Compaq,Technology,14602
 2000-01-01,NESCAFÉ,Beverages,13680
 2000-01-01,BMW,Automotive,12969
@@ -34,19 +34,19 @@ date,name,category,value
 2000-01-01,Kellogg's,FMCG,7357
 2000-01-01,Louis Vuitton,Luxury,6887
 2000-01-01,Pepsi,Beverages,6636
-2000-01-01,Santa Isabel,Technology,6594
+2000-01-01,Apple,Technology,6594
 2000-01-01,MTV,Media,6411
 2000-01-01,Yahoo!,Media,6299
 2000-01-01,SAP,Business Services,6135
 2000-01-01,IKEA,Retail,6031
 2000-01-01,Duracell,FMCG,5885
 2000-01-01,Philips,Electronics,5481
-2000-01-01,Río Grande,Technology,5223
+2000-01-01,Samsung,Technology,5223
 2000-01-01,Gucci,Luxury,5149
 2000-01-01,Kleenex,FMCG,5144
 2000-01-01,Reuters,Media,4876
 2000-01-01,AOL,Media,4531
-2000-01-01,Gurabo,Technology,4528
+2000-01-01,Amazon,Technology,4528
 2000-01-01,Motorola,Electronics,4445
 2000-01-01,Colgate,FMCG,4417
 2000-01-01,Wrigley,FMCG,4324
@@ -74,27 +74,27 @@ date,name,category,value
 2000-01-01,Guinness,Alcohol,1224
 2000-01-01,Financial Times,Media,1148
 2000-01-01,Benetton,Apparel,1008
-2001-01-01,San Juan,Beverages,68945
-2001-01-01,Aguada,Technology,65068
-2001-01-01,Aguadilla,Business Services,52752
-2001-01-01,Aibonito,Diversified,42396
-2001-01-01,Adjuntas,Technology,35035
-2001-01-01,Aguas Buenas,Technology,34665
-2001-01-01,Bayamón,Media,32591
-2001-01-01,Añasco,Automotive,30092
-2001-01-01,Arecibo,Restaurants,25289
-2001-01-01,Arroyo,Telecommunications,22828
-2001-01-01,Barceloneta,Tobacco,22053
-2001-01-01,Barranquitas,Automotive,21728
-2001-01-01,Camuy,Financial Services,19005
-2001-01-01,Caguas,Automotive,18578
-2001-01-01,Cabo Rojo,Electronics,17983
+2001-01-01,Coca-Cola,Beverages,68945
+2001-01-01,Microsoft,Technology,65068
+2001-01-01,IBM,Business Services,52752
+2001-01-01,GE,Diversified,42396
+2001-01-01,Nokia,Technology,35035
+2001-01-01,Intel,Technology,34665
+2001-01-01,Disney,Media,32591
+2001-01-01,Ford,Automotive,30092
+2001-01-01,McDonald's,Restaurants,25289
+2001-01-01,AT&T,Telecommunications,22828
+2001-01-01,Marlboro,Tobacco,22053
+2001-01-01,Mercedes-Benz,Automotive,21728
+2001-01-01,Citi,Financial Services,19005
+2001-01-01,Toyota,Automotive,18578
+2001-01-01,HP,Electronics,17983
 2001-01-01,Cisco,Business Services,17209
-2001-01-01,Cataño,Financial Services,16919
-2001-01-01,Canóvanas,FMCG,15298
+2001-01-01,American Express,Financial Services,16919
+2001-01-01,Gillette,FMCG,15298
 2001-01-01,Merrill Lynch,Financial Services,15015
-2001-01-01,Carolina,Electronics,15005
-2001-01-01,Cayey,Automotive,14638
+2001-01-01,Sony,Electronics,15005
+2001-01-01,Honda,Automotive,14638
 2001-01-01,BMW,Automotive,13858
 2001-01-01,NESCAFÉ,Beverages,13250
 2001-01-01,Compaq,Technology,12354
@@ -115,14 +115,14 @@ date,name,category,value
 2001-01-01,Kellogg's,FMCG,7005
 2001-01-01,MTV,Media,6599
 2001-01-01,Canon,Electronics,6580
-2001-01-01,Río Grande,Technology,6374
+2001-01-01,Samsung,Technology,6374
 2001-01-01,SAP,Business Services,6307
 2001-01-01,Pepsi,Beverages,6214
 2001-01-01,Xerox,Business Services,6019
 2001-01-01,IKEA,Retail,6005
 2001-01-01,Pizza Hut,Restaurants,5978
 2001-01-01,Harley-Davidson,Automotive,5532
-2001-01-01,Santa Isabel,Technology,5464
+2001-01-01,Apple,Technology,5464
 2001-01-01,Gucci,Luxury,5363
 2001-01-01,KFC,Restaurants,5261
 2001-01-01,Reuters,Media,5236
@@ -149,7 +149,7 @@ date,name,category,value
 2001-01-01,Tiffany & Co.,Luxury,3483
 2001-01-01,BP,Energy,3247
 2001-01-01,Bacardi,Alcohol,3204
-2001-01-01,Gurabo,Technology,3130
+2001-01-01,Amazon,Technology,3130
 2001-01-01,Shell,Energy,2844
 2001-01-01,Smirnoff,Alcohol,2594
 2001-01-01,Moët & Chandon,Alcohol,2470
@@ -174,27 +174,27 @@ date,name,category,value
 2001-01-01,Siemens,Diversified,1029
 2001-01-01,Swatch,FMCG,1004
 2001-01-01,Benetton,Apparel,1002
-2002-01-01,San Juan,Beverages,69637
-2002-01-01,Aguada,Technology,64091
-2002-01-01,Aguadilla,Business Services,51188
-2002-01-01,Aibonito,Diversified,41311
-2002-01-01,Aguas Buenas,Technology,30861
-2002-01-01,Adjuntas,Technology,29970
-2002-01-01,Bayamón,Media,29256
-2002-01-01,Arecibo,Restaurants,26375
-2002-01-01,Barceloneta,Tobacco,24151
-2002-01-01,Barranquitas,Automotive,21010
-2002-01-01,Añasco,Automotive,20403
-2002-01-01,Caguas,Automotive,19448
-2002-01-01,Camuy,Financial Services,18066
-2002-01-01,Cabo Rojo,Electronics,16776
-2002-01-01,Cataño,Financial Services,16287
+2002-01-01,Coca-Cola,Beverages,69637
+2002-01-01,Microsoft,Technology,64091
+2002-01-01,IBM,Business Services,51188
+2002-01-01,GE,Diversified,41311
+2002-01-01,Intel,Technology,30861
+2002-01-01,Nokia,Technology,29970
+2002-01-01,Disney,Media,29256
+2002-01-01,McDonald's,Restaurants,26375
+2002-01-01,Marlboro,Tobacco,24151
+2002-01-01,Mercedes-Benz,Automotive,21010
+2002-01-01,Ford,Automotive,20403
+2002-01-01,Toyota,Automotive,19448
+2002-01-01,Citi,Financial Services,18066
+2002-01-01,HP,Electronics,16776
+2002-01-01,American Express,Financial Services,16287
 2002-01-01,Cisco,Business Services,16222
-2002-01-01,Arroyo,Telecommunications,16059
-2002-01-01,Cayey,Automotive,15064
-2002-01-01,Canóvanas,FMCG,14959
+2002-01-01,AT&T,Telecommunications,16059
+2002-01-01,Honda,Automotive,15064
+2002-01-01,Gillette,FMCG,14959
 2002-01-01,BMW,Automotive,14425
-2002-01-01,Carolina,Electronics,13899
+2002-01-01,Sony,Electronics,13899
 2002-01-01,NESCAFÉ,Beverages,12843
 2002-01-01,Oracle,Business Services,11510
 2002-01-01,Budweiser,Alcohol,11349
@@ -207,7 +207,7 @@ date,name,category,value
 2002-01-01,Dell,Electronics,9237
 2002-01-01,Nintendo,Electronics,9219
 2002-01-01,"Merck & Co., Inc.",Pharmaceuticals,9138
-2002-01-01,Río Grande,Technology,8310
+2002-01-01,Samsung,Technology,8310
 2002-01-01,Nike,Sporting Goods,7724
 2002-01-01,Gap,Apparel,7406
 2002-01-01,Heinz,FMCG,7347
@@ -223,7 +223,7 @@ date,name,category,value
 2002-01-01,MTV,Media,6078
 2002-01-01,Pizza Hut,Restaurants,6046
 2002-01-01,KFC,Restaurants,5346
-2002-01-01,Santa Isabel,Technology,5316
+2002-01-01,Apple,Technology,5316
 2002-01-01,Xerox,Business Services,5308
 2002-01-01,Gucci,Luxury,5304
 2002-01-01,Accenture,Business Services,5182
@@ -253,7 +253,7 @@ date,name,category,value
 2002-01-01,Hertz,Automotive,3362
 2002-01-01,Bacardi,Alcohol,3341
 2002-01-01,Caterpillar,Diversified,3218
-2002-01-01,Gurabo,Technology,3175
+2002-01-01,Amazon,Technology,3175
 2002-01-01,Panasonic,Electronics,3141
 2002-01-01,Boeing,Diversified,2973
 2002-01-01,Shell,Energy,2810
@@ -274,31 +274,31 @@ date,name,category,value
 2002-01-01,Jack Daniel's,Alcohol,1580
 2002-01-01,3M,Diversified,1579
 2002-01-01,Armani,Luxury,1509
-2003-01-01,San Juan,Beverages,70453
-2003-01-01,Aguada,Technology,65174
-2003-01-01,Aguadilla,Business Services,51767
-2003-01-01,Aibonito,Diversified,42340
-2003-01-01,Aguas Buenas,Technology,31112
-2003-01-01,Adjuntas,Technology,29440
-2003-01-01,Bayamón,Media,28036
-2003-01-01,Arecibo,Restaurants,24699
-2003-01-01,Barceloneta,Tobacco,22183
-2003-01-01,Barranquitas,Automotive,21371
-2003-01-01,Caguas,Automotive,20784
-2003-01-01,Cabo Rojo,Electronics,19860
-2003-01-01,Camuy,Financial Services,18571
-2003-01-01,Añasco,Automotive,17066
-2003-01-01,Cataño,Financial Services,16833
-2003-01-01,Canóvanas,FMCG,15978
+2003-01-01,Coca-Cola,Beverages,70453
+2003-01-01,Microsoft,Technology,65174
+2003-01-01,IBM,Business Services,51767
+2003-01-01,GE,Diversified,42340
+2003-01-01,Intel,Technology,31112
+2003-01-01,Nokia,Technology,29440
+2003-01-01,Disney,Media,28036
+2003-01-01,McDonald's,Restaurants,24699
+2003-01-01,Marlboro,Tobacco,22183
+2003-01-01,Mercedes-Benz,Automotive,21371
+2003-01-01,Toyota,Automotive,20784
+2003-01-01,HP,Electronics,19860
+2003-01-01,Citi,Financial Services,18571
+2003-01-01,Ford,Automotive,17066
+2003-01-01,American Express,Financial Services,16833
+2003-01-01,Gillette,FMCG,15978
 2003-01-01,Cisco,Business Services,15789
-2003-01-01,Cayey,Automotive,15625
+2003-01-01,Honda,Automotive,15625
 2003-01-01,BMW,Automotive,15106
-2003-01-01,Carolina,Electronics,13153
+2003-01-01,Sony,Electronics,13153
 2003-01-01,NESCAFÉ,Beverages,12336
 2003-01-01,Budweiser,Alcohol,11894
 2003-01-01,Pepsi,Beverages,11777
 2003-01-01,Oracle,Business Services,11263
-2003-01-01,Río Grande,Technology,10846
+2003-01-01,Samsung,Technology,10846
 2003-01-01,Morgan Stanley,Financial Services,10691
 2003-01-01,Merrill Lynch,Financial Services,10521
 2003-01-01,Pfizer,Pharmaceuticals,10455
@@ -323,7 +323,7 @@ date,name,category,value
 2003-01-01,L'Oréal,FMCG,5600
 2003-01-01,Xerox,Business Services,5578
 2003-01-01,KFC,Restaurants,5576
-2003-01-01,Santa Isabel,Technology,5554
+2003-01-01,Apple,Technology,5554
 2003-01-01,Pizza Hut,Restaurants,5312
 2003-01-01,Accenture,Business Services,5301
 2003-01-01,Gucci,Luxury,5100
@@ -347,7 +347,7 @@ date,name,category,value
 2003-01-01,Duracell,FMCG,3438
 2003-01-01,Bacardi,Alcohol,3431
 2003-01-01,Hermès,Luxury,3416
-2003-01-01,Gurabo,Technology,3403
+2003-01-01,Amazon,Technology,3403
 2003-01-01,Caterpillar,Diversified,3363
 2003-01-01,Reuters,Media,3300
 2003-01-01,Levi's,Apparel,3298
@@ -374,27 +374,27 @@ date,name,category,value
 2003-01-01,Wall Street Journal,Media,1763
 2003-01-01,Johnnie Walker,Alcohol,1724
 2003-01-01,Jack Daniel's,Alcohol,1612
-2004-01-01,San Juan,Beverages,67394
-2004-01-01,Aguada,Technology,61372
-2004-01-01,Aguadilla,Business Services,53791
-2004-01-01,Aibonito,Diversified,44111
-2004-01-01,Aguas Buenas,Technology,33499
-2004-01-01,Bayamón,Media,27113
-2004-01-01,Arecibo,Restaurants,25001
-2004-01-01,Adjuntas,Technology,24041
-2004-01-01,Caguas,Automotive,22673
-2004-01-01,Barceloneta,Tobacco,22128
-2004-01-01,Barranquitas,Automotive,21331
-2004-01-01,Cabo Rojo,Electronics,20978
-2004-01-01,Camuy,Financial Services,19971
-2004-01-01,Cataño,Financial Services,17683
-2004-01-01,Canóvanas,FMCG,16723
+2004-01-01,Coca-Cola,Beverages,67394
+2004-01-01,Microsoft,Technology,61372
+2004-01-01,IBM,Business Services,53791
+2004-01-01,GE,Diversified,44111
+2004-01-01,Intel,Technology,33499
+2004-01-01,Disney,Media,27113
+2004-01-01,McDonald's,Restaurants,25001
+2004-01-01,Nokia,Technology,24041
+2004-01-01,Toyota,Automotive,22673
+2004-01-01,Marlboro,Tobacco,22128
+2004-01-01,Mercedes-Benz,Automotive,21331
+2004-01-01,HP,Electronics,20978
+2004-01-01,Citi,Financial Services,19971
+2004-01-01,American Express,Financial Services,17683
+2004-01-01,Gillette,FMCG,16723
 2004-01-01,Cisco,Business Services,15948
 2004-01-01,BMW,Automotive,15886
-2004-01-01,Cayey,Automotive,14874
-2004-01-01,Añasco,Automotive,14475
-2004-01-01,Carolina,Electronics,12759
-2004-01-01,Río Grande,Technology,12553
+2004-01-01,Honda,Automotive,14874
+2004-01-01,Ford,Automotive,14475
+2004-01-01,Sony,Electronics,12759
+2004-01-01,Samsung,Technology,12553
 2004-01-01,Pepsi,Beverages,12066
 2004-01-01,NESCAFÉ,Beverages,11892
 2004-01-01,Budweiser,Alcohol,11846
@@ -416,7 +416,7 @@ date,name,category,value
 2004-01-01,IKEA,Retail,7182
 2004-01-01,Harley-Davidson,Automotive,7057
 2004-01-01,Heinz,FMCG,7026
-2004-01-01,Santa Isabel,Technology,6871
+2004-01-01,Apple,Technology,6871
 2004-01-01,Louis Vuitton,Luxury,6602
 2004-01-01,UBS,Financial Services,6526
 2004-01-01,Nintendo,Electronics,6479
@@ -439,7 +439,7 @@ date,name,category,value
 2004-01-01,Danone,FMCG,4488
 2004-01-01,Chanel,Luxury,4416
 2004-01-01,Philips,Electronics,4378
-2004-01-01,Gurabo,Technology,4156
+2004-01-01,Amazon,Technology,4156
 2004-01-01,Kraft,FMCG,4112
 2004-01-01,Caterpillar,Diversified,3801
 2004-01-01,adidas,Sporting Goods,3740
@@ -474,34 +474,34 @@ date,name,category,value
 2004-01-01,Starbucks,Restaurants,2400
 2004-01-01,Heineken,Alcohol,2380
 2004-01-01,Ralph Lauren,Apparel,2147
-2005-01-01,San Juan,Beverages,67525
-2005-01-01,Aguada,Technology,59941
-2005-01-01,Aguadilla,Business Services,53376
-2005-01-01,Aibonito,Diversified,46996
-2005-01-01,Aguas Buenas,Technology,35588
-2005-01-01,Adjuntas,Technology,26452
-2005-01-01,Bayamón,Media,26441
-2005-01-01,Arecibo,Restaurants,26014
-2005-01-01,Caguas,Automotive,24837
-2005-01-01,Barceloneta,Tobacco,21189
-2005-01-01,Barranquitas,Automotive,20006
-2005-01-01,Camuy,Financial Services,19967
-2005-01-01,Cabo Rojo,Electronics,18866
-2005-01-01,Cataño,Financial Services,18559
-2005-01-01,Canóvanas,FMCG,17534
+2005-01-01,Coca-Cola,Beverages,67525
+2005-01-01,Microsoft,Technology,59941
+2005-01-01,IBM,Business Services,53376
+2005-01-01,GE,Diversified,46996
+2005-01-01,Intel,Technology,35588
+2005-01-01,Nokia,Technology,26452
+2005-01-01,Disney,Media,26441
+2005-01-01,McDonald's,Restaurants,26014
+2005-01-01,Toyota,Automotive,24837
+2005-01-01,Marlboro,Tobacco,21189
+2005-01-01,Mercedes-Benz,Automotive,20006
+2005-01-01,Citi,Financial Services,19967
+2005-01-01,HP,Electronics,18866
+2005-01-01,American Express,Financial Services,18559
+2005-01-01,Gillette,FMCG,17534
 2005-01-01,BMW,Automotive,17126
 2005-01-01,Cisco,Business Services,16592
 2005-01-01,Louis Vuitton,Luxury,16077
-2005-01-01,Cayey,Automotive,15788
-2005-01-01,Río Grande,Technology,14956
+2005-01-01,Honda,Automotive,15788
+2005-01-01,Samsung,Technology,14956
 2005-01-01,Dell,Electronics,13231
-2005-01-01,Añasco,Automotive,13159
+2005-01-01,Ford,Automotive,13159
 2005-01-01,Pepsi,Beverages,12399
 2005-01-01,NESCAFÉ,Beverages,12241
 2005-01-01,Merrill Lynch,Financial Services,12018
 2005-01-01,Budweiser,Alcohol,11878
 2005-01-01,Oracle,Business Services,10887
-2005-01-01,Carolina,Electronics,10754
+2005-01-01,Sony,Electronics,10754
 2005-01-01,HSBC,Financial Services,10429
 2005-01-01,Nike,Sporting Goods,10114
 2005-01-01,Pfizer,Pharmaceuticals,9981
@@ -511,10 +511,10 @@ date,name,category,value
 2005-01-01,Canon,Electronics,9044
 2005-01-01,SAP,Business Services,9006
 2005-01-01,Goldman Sachs,Financial Services,8495
-2005-01-01,Ceiba,Technology,8461
+2005-01-01,Google,Technology,8461
 2005-01-01,Kellogg's,FMCG,8306
 2005-01-01,Gap,Apparel,8195
-2005-01-01,Santa Isabel,Technology,7985
+2005-01-01,Apple,Technology,7985
 2005-01-01,IKEA,Retail,7817
 2005-01-01,Novartis,Pharmaceuticals,7746
 2005-01-01,UBS,Financial Services,7565
@@ -541,7 +541,7 @@ date,name,category,value
 2005-01-01,Chanel,Luxury,4778
 2005-01-01,Nestlé,FMCG,4744
 2005-01-01,Danone,FMCG,4513
-2005-01-01,Gurabo,Technology,4248
+2005-01-01,Amazon,Technology,4248
 2005-01-01,Kraft,FMCG,4238
 2005-01-01,Caterpillar,Diversified,4085
 2005-01-01,adidas,Sporting Goods,4033
@@ -574,36 +574,36 @@ date,name,category,value
 2005-01-01,Nivea,FMCG,2576
 2005-01-01,Starbucks,Restaurants,2576
 2005-01-01,Heineken,Alcohol,2357
-2006-01-01,San Juan,Beverages,67000
-2006-01-01,Aguada,Technology,56926
-2006-01-01,Aguadilla,Business Services,56201
-2006-01-01,Aibonito,Diversified,48907
-2006-01-01,Aguas Buenas,Technology,32319
-2006-01-01,Adjuntas,Technology,30131
-2006-01-01,Caguas,Automotive,27941
-2006-01-01,Bayamón,Media,27848
-2006-01-01,Arecibo,Restaurants,27501
-2006-01-01,Barranquitas,Automotive,21795
-2006-01-01,Camuy,Financial Services,21458
-2006-01-01,Barceloneta,Tobacco,21350
-2006-01-01,Cabo Rojo,Electronics,20458
-2006-01-01,Cataño,Financial Services,19641
+2006-01-01,Coca-Cola,Beverages,67000
+2006-01-01,Microsoft,Technology,56926
+2006-01-01,IBM,Business Services,56201
+2006-01-01,GE,Diversified,48907
+2006-01-01,Intel,Technology,32319
+2006-01-01,Nokia,Technology,30131
+2006-01-01,Toyota,Automotive,27941
+2006-01-01,Disney,Media,27848
+2006-01-01,McDonald's,Restaurants,27501
+2006-01-01,Mercedes-Benz,Automotive,21795
+2006-01-01,Citi,Financial Services,21458
+2006-01-01,Marlboro,Tobacco,21350
+2006-01-01,HP,Electronics,20458
+2006-01-01,American Express,Financial Services,19641
 2006-01-01,BMW,Automotive,19617
-2006-01-01,Canóvanas,FMCG,19579
+2006-01-01,Gillette,FMCG,19579
 2006-01-01,Louis Vuitton,Luxury,17606
 2006-01-01,Cisco,Business Services,17532
-2006-01-01,Cayey,Automotive,17049
-2006-01-01,Río Grande,Technology,16169
+2006-01-01,Honda,Automotive,17049
+2006-01-01,Samsung,Technology,16169
 2006-01-01,Merrill Lynch,Financial Services,13001
 2006-01-01,Pepsi,Beverages,12690
 2006-01-01,NESCAFÉ,Beverages,12507
-2006-01-01,Ceiba,Technology,12376
+2006-01-01,Google,Technology,12376
 2006-01-01,Dell,Electronics,12256
-2006-01-01,Carolina,Electronics,11695
+2006-01-01,Sony,Electronics,11695
 2006-01-01,Budweiser,Alcohol,11662
 2006-01-01,HSBC,Financial Services,11622
 2006-01-01,Oracle,Business Services,11459
-2006-01-01,Añasco,Automotive,11056
+2006-01-01,Ford,Automotive,11056
 2006-01-01,Nike,Sporting Goods,10897
 2006-01-01,UPS,Logistics,10712
 2006-01-01,J.P. Morgan,Financial Services,10205
@@ -612,7 +612,7 @@ date,name,category,value
 2006-01-01,Morgan Stanley,Financial Services,9762
 2006-01-01,Goldman Sachs,Financial Services,9640
 2006-01-01,Pfizer,Pharmaceuticals,9591
-2006-01-01,Santa Isabel,Technology,9130
+2006-01-01,Apple,Technology,9130
 2006-01-01,Kellogg's,FMCG,8776
 2006-01-01,IKEA,Retail,8763
 2006-01-01,UBS,Financial Services,8734
@@ -638,7 +638,7 @@ date,name,category,value
 2006-01-01,Avon,FMCG,5040
 2006-01-01,Nestlé,FMCG,4932
 2006-01-01,Kleenex,FMCG,4842
-2006-01-01,Gurabo,Technology,4707
+2006-01-01,Amazon,Technology,4707
 2006-01-01,Pizza Hut,Restaurants,4694
 2006-01-01,Danone,FMCG,4638
 2006-01-01,Caterpillar,Diversified,4580
@@ -674,31 +674,31 @@ date,name,category,value
 2006-01-01,Burberry,Luxury,2783
 2006-01-01,Nivea,FMCG,2692
 2006-01-01,Levi's,Apparel,2689
-2007-01-01,San Juan,Beverages,65324
-2007-01-01,Aguada,Technology,58709
-2007-01-01,Aguadilla,Business Services,57090
-2007-01-01,Aibonito,Diversified,51569
-2007-01-01,Adjuntas,Technology,33696
-2007-01-01,Caguas,Automotive,32070
-2007-01-01,Aguas Buenas,Technology,30954
-2007-01-01,Arecibo,Restaurants,29398
-2007-01-01,Bayamón,Media,29210
-2007-01-01,Barranquitas,Automotive,23568
-2007-01-01,Camuy,Financial Services,23442
-2007-01-01,Cabo Rojo,Electronics,22197
+2007-01-01,Coca-Cola,Beverages,65324
+2007-01-01,Microsoft,Technology,58709
+2007-01-01,IBM,Business Services,57090
+2007-01-01,GE,Diversified,51569
+2007-01-01,Nokia,Technology,33696
+2007-01-01,Toyota,Automotive,32070
+2007-01-01,Intel,Technology,30954
+2007-01-01,McDonald's,Restaurants,29398
+2007-01-01,Disney,Media,29210
+2007-01-01,Mercedes-Benz,Automotive,23568
+2007-01-01,Citi,Financial Services,23442
+2007-01-01,HP,Electronics,22197
 2007-01-01,BMW,Automotive,21612
-2007-01-01,Barceloneta,Tobacco,21282
-2007-01-01,Cataño,Financial Services,20827
-2007-01-01,Canóvanas,FMCG,20415
+2007-01-01,Marlboro,Tobacco,21282
+2007-01-01,American Express,Financial Services,20827
+2007-01-01,Gillette,FMCG,20415
 2007-01-01,Louis Vuitton,Luxury,20321
 2007-01-01,Cisco,Business Services,19099
-2007-01-01,Cayey,Automotive,17998
-2007-01-01,Ceiba,Technology,17837
-2007-01-01,Río Grande,Technology,16853
+2007-01-01,Honda,Automotive,17998
+2007-01-01,Google,Technology,17837
+2007-01-01,Samsung,Technology,16853
 2007-01-01,Merrill Lynch,Financial Services,14343
 2007-01-01,HSBC,Financial Services,13563
 2007-01-01,NESCAFÉ,Beverages,12950
-2007-01-01,Carolina,Electronics,12907
+2007-01-01,Sony,Electronics,12907
 2007-01-01,Pepsi,Beverages,12888
 2007-01-01,Oracle,Business Services,12448
 2007-01-01,UPS,Logistics,12013
@@ -706,7 +706,7 @@ date,name,category,value
 2007-01-01,Budweiser,Alcohol,11652
 2007-01-01,Dell,Electronics,11554
 2007-01-01,J.P. Morgan,Financial Services,11433
-2007-01-01,Santa Isabel,Technology,11037
+2007-01-01,Apple,Technology,11037
 2007-01-01,SAP,Business Services,10850
 2007-01-01,Goldman Sachs,Financial Services,10663
 2007-01-01,Canon,Electronics,10581
@@ -714,7 +714,7 @@ date,name,category,value
 2007-01-01,IKEA,Retail,10087
 2007-01-01,UBS,Financial Services,9838
 2007-01-01,Kellogg's,FMCG,9341
-2007-01-01,Añasco,Automotive,8982
+2007-01-01,Ford,Automotive,8982
 2007-01-01,Philips,Electronics,7741
 2007-01-01,Siemens,Diversified,7737
 2007-01-01,Nintendo,Electronics,7730
@@ -735,7 +735,7 @@ date,name,category,value
 2007-01-01,Wrigley,FMCG,5777
 2007-01-01,KFC,Restaurants,5682
 2007-01-01,Gap,Apparel,5481
-2007-01-01,Gurabo,Technology,5411
+2007-01-01,Amazon,Technology,5411
 2007-01-01,Nestlé,FMCG,5314
 2007-01-01,Zara,Apparel,5165
 2007-01-01,Avon,FMCG,5103
@@ -774,31 +774,31 @@ date,name,category,value
 2007-01-01,Nissan,Automotive,3072
 2007-01-01,Ralph Lauren,Apparel,3046
 2007-01-01,Hertz,Automotive,3026
-2008-01-01,San Juan,Beverages,66667
-2008-01-01,Aguadilla,Business Services,59031
-2008-01-01,Aguada,Technology,59007
-2008-01-01,Aibonito,Diversified,53086
-2008-01-01,Adjuntas,Technology,35942
-2008-01-01,Caguas,Automotive,34050
-2008-01-01,Aguas Buenas,Technology,31261
-2008-01-01,Arecibo,Restaurants,31049
-2008-01-01,Bayamón,Media,29251
-2008-01-01,Ceiba,Technology,25590
-2008-01-01,Barranquitas,Automotive,25577
-2008-01-01,Cabo Rojo,Electronics,23509
+2008-01-01,Coca-Cola,Beverages,66667
+2008-01-01,IBM,Business Services,59031
+2008-01-01,Microsoft,Technology,59007
+2008-01-01,GE,Diversified,53086
+2008-01-01,Nokia,Technology,35942
+2008-01-01,Toyota,Automotive,34050
+2008-01-01,Intel,Technology,31261
+2008-01-01,McDonald's,Restaurants,31049
+2008-01-01,Disney,Media,29251
+2008-01-01,Google,Technology,25590
+2008-01-01,Mercedes-Benz,Automotive,25577
+2008-01-01,HP,Electronics,23509
 2008-01-01,BMW,Automotive,23298
-2008-01-01,Canóvanas,FMCG,22689
-2008-01-01,Cataño,Financial Services,21940
+2008-01-01,Gillette,FMCG,22689
+2008-01-01,American Express,Financial Services,21940
 2008-01-01,Louis Vuitton,Luxury,21602
 2008-01-01,Cisco,Business Services,21306
-2008-01-01,Barceloneta,Tobacco,21300
-2008-01-01,Camuy,Financial Services,20174
-2008-01-01,Cayey,Automotive,19079
-2008-01-01,Río Grande,Technology,17689
+2008-01-01,Marlboro,Tobacco,21300
+2008-01-01,Citi,Financial Services,20174
+2008-01-01,Honda,Automotive,19079
+2008-01-01,Samsung,Technology,17689
 2008-01-01,H&M,Apparel,13840
 2008-01-01,Oracle,Business Services,13831
-2008-01-01,Santa Isabel,Technology,13724
-2008-01-01,Carolina,Electronics,13583
+2008-01-01,Apple,Technology,13724
+2008-01-01,Sony,Electronics,13583
 2008-01-01,Pepsi,Beverages,13249
 2008-01-01,HSBC,Financial Services,13143
 2008-01-01,NESCAFÉ,Beverages,13056
@@ -822,7 +822,7 @@ date,name,category,value
 2008-01-01,eBay,Retail,7991
 2008-01-01,Accenture,Business Services,7948
 2008-01-01,Siemens,Diversified,7943
-2008-01-01,Añasco,Automotive,7896
+2008-01-01,Ford,Automotive,7896
 2008-01-01,Harley-Davidson,Automotive,7609
 2008-01-01,L'Oréal,FMCG,7508
 2008-01-01,MTV,Media,7193
@@ -831,7 +831,7 @@ date,name,category,value
 2008-01-01,AXA,Financial Services,7001
 2008-01-01,Heinz,FMCG,6646
 2008-01-01,Colgate,FMCG,6437
-2008-01-01,Gurabo,Technology,6434
+2008-01-01,Amazon,Technology,6434
 2008-01-01,Xerox,Business Services,6393
 2008-01-01,Chanel,Luxury,6355
 2008-01-01,Wrigley,FMCG,6105
@@ -874,55 +874,55 @@ date,name,category,value
 2008-01-01,Nivea,FMCG,3401
 2008-01-01,FedEx,Logistics,3359
 2008-01-01,Visa,Financial Services,3338
-2009-01-01,San Juan,Beverages,68734
-2009-01-01,Aguadilla,Business Services,60211
-2009-01-01,Aguada,Technology,56647
-2009-01-01,Aibonito,Diversified,47777
-2009-01-01,Adjuntas,Technology,34864
-2009-01-01,Arecibo,Restaurants,32275
-2009-01-01,Ceiba,Technology,31980
-2009-01-01,Caguas,Automotive,31330
-2009-01-01,Aguas Buenas,Technology,30636
-2009-01-01,Bayamón,Media,28447
-2009-01-01,Cabo Rojo,Electronics,24096
-2009-01-01,Barranquitas,Automotive,23867
-2009-01-01,Canóvanas,FMCG,22841
+2009-01-01,Coca-Cola,Beverages,68734
+2009-01-01,IBM,Business Services,60211
+2009-01-01,Microsoft,Technology,56647
+2009-01-01,GE,Diversified,47777
+2009-01-01,Nokia,Technology,34864
+2009-01-01,McDonald's,Restaurants,32275
+2009-01-01,Google,Technology,31980
+2009-01-01,Toyota,Automotive,31330
+2009-01-01,Intel,Technology,30636
+2009-01-01,Disney,Media,28447
+2009-01-01,HP,Electronics,24096
+2009-01-01,Mercedes-Benz,Automotive,23867
+2009-01-01,Gillette,FMCG,22841
 2009-01-01,Cisco,Business Services,22030
 2009-01-01,BMW,Automotive,21671
 2009-01-01,Louis Vuitton,Luxury,21120
-2009-01-01,Barceloneta,Tobacco,19010
-2009-01-01,Cayey,Automotive,17803
-2009-01-01,Río Grande,Technology,17518
-2009-01-01,Santa Isabel,Technology,15433
+2009-01-01,Marlboro,Tobacco,19010
+2009-01-01,Honda,Automotive,17803
+2009-01-01,Samsung,Technology,17518
+2009-01-01,Apple,Technology,15433
 2009-01-01,H&M,Apparel,15375
-2009-01-01,Cataño,Financial Services,14971
+2009-01-01,American Express,Financial Services,14971
 2009-01-01,Pepsi,Beverages,13706
 2009-01-01,Oracle,Business Services,13699
 2009-01-01,NESCAFÉ,Beverages,13317
 2009-01-01,Nike,Sporting Goods,13179
 2009-01-01,SAP,Business Services,12106
 2009-01-01,IKEA,Retail,12004
-2009-01-01,Carolina,Electronics,11953
+2009-01-01,Sony,Electronics,11953
 2009-01-01,Budweiser,Alcohol,11833
 2009-01-01,UPS,Logistics,11594
 2009-01-01,HSBC,Financial Services,10510
 2009-01-01,Canon,Electronics,10441
 2009-01-01,Kellogg's,FMCG,10428
 2009-01-01,Dell,Electronics,10291
-2009-01-01,Camuy,Financial Services,10254
+2009-01-01,Citi,Financial Services,10254
 2009-01-01,J.P. Morgan,Financial Services,9550
 2009-01-01,Goldman Sachs,Financial Services,9248
 2009-01-01,Nintendo,Electronics,9210
 2009-01-01,Thomson Reuters,Media,8434
 2009-01-01,Gucci,Luxury,8182
 2009-01-01,Philips,Electronics,8121
-2009-01-01,Gurabo,Technology,7858
+2009-01-01,Amazon,Technology,7858
 2009-01-01,L'Oréal,FMCG,7748
 2009-01-01,Accenture,Business Services,7710
 2009-01-01,eBay,Retail,7350
 2009-01-01,Siemens,Diversified,7308
 2009-01-01,Heinz,FMCG,7244
-2009-01-01,Añasco,Automotive,7005
+2009-01-01,Ford,Automotive,7005
 2009-01-01,Zara,Apparel,6789
 2009-01-01,Wrigley,FMCG,6731
 2009-01-01,Colgate,FMCG,6550
@@ -974,30 +974,30 @@ date,name,category,value
 2009-01-01,Burberry,Luxury,3095
 2009-01-01,Ralph Lauren,Apparel,3094
 2009-01-01,Campbell's,FMCG,3081
-2010-01-01,San Juan,Beverages,70452
-2010-01-01,Aguadilla,Business Services,64727
-2010-01-01,Aguada,Technology,60895
-2010-01-01,Ceiba,Technology,43557
-2010-01-01,Aibonito,Diversified,42808
-2010-01-01,Arecibo,Restaurants,33578
-2010-01-01,Aguas Buenas,Technology,32015
-2010-01-01,Adjuntas,Technology,29495
-2010-01-01,Bayamón,Media,28731
-2010-01-01,Cabo Rojo,Electronics,26867
-2010-01-01,Caguas,Automotive,26192
-2010-01-01,Barranquitas,Automotive,25179
-2010-01-01,Canóvanas,FMCG,23298
+2010-01-01,Coca-Cola,Beverages,70452
+2010-01-01,IBM,Business Services,64727
+2010-01-01,Microsoft,Technology,60895
+2010-01-01,Google,Technology,43557
+2010-01-01,GE,Diversified,42808
+2010-01-01,McDonald's,Restaurants,33578
+2010-01-01,Intel,Technology,32015
+2010-01-01,Nokia,Technology,29495
+2010-01-01,Disney,Media,28731
+2010-01-01,HP,Electronics,26867
+2010-01-01,Toyota,Automotive,26192
+2010-01-01,Mercedes-Benz,Automotive,25179
+2010-01-01,Gillette,FMCG,23298
 2010-01-01,Cisco,Business Services,23219
 2010-01-01,BMW,Automotive,22322
 2010-01-01,Louis Vuitton,Luxury,21860
-2010-01-01,Santa Isabel,Technology,21143
-2010-01-01,Barceloneta,Tobacco,19961
-2010-01-01,Río Grande,Technology,19491
-2010-01-01,Cayey,Automotive,18506
+2010-01-01,Apple,Technology,21143
+2010-01-01,Marlboro,Tobacco,19961
+2010-01-01,Samsung,Technology,19491
+2010-01-01,Honda,Automotive,18506
 2010-01-01,H&M,Apparel,16136
 2010-01-01,Oracle,Business Services,14881
 2010-01-01,Pepsi,Beverages,14061
-2010-01-01,Cataño,Financial Services,13944
+2010-01-01,American Express,Financial Services,13944
 2010-01-01,Nike,Sporting Goods,13706
 2010-01-01,SAP,Business Services,12756
 2010-01-01,NESCAFÉ,Beverages,12753
@@ -1007,13 +1007,13 @@ date,name,category,value
 2010-01-01,UPS,Logistics,11826
 2010-01-01,HSBC,Financial Services,11561
 2010-01-01,Canon,Electronics,11485
-2010-01-01,Carolina,Electronics,11356
+2010-01-01,Sony,Electronics,11356
 2010-01-01,Kellogg's,FMCG,11041
-2010-01-01,Gurabo,Technology,9665
+2010-01-01,Amazon,Technology,9665
 2010-01-01,Goldman Sachs,Financial Services,9372
 2010-01-01,Nintendo,Electronics,8990
 2010-01-01,Thomson Reuters,Media,8976
-2010-01-01,Camuy,Financial Services,8887
+2010-01-01,Citi,Financial Services,8887
 2010-01-01,Dell,Electronics,8880
 2010-01-01,Philips,Electronics,8696
 2010-01-01,eBay,Retail,8453
@@ -1023,7 +1023,7 @@ date,name,category,value
 2010-01-01,Accenture,Business Services,7481
 2010-01-01,Zara,Apparel,7468
 2010-01-01,Siemens,Diversified,7315
-2010-01-01,Añasco,Automotive,7195
+2010-01-01,Ford,Automotive,7195
 2010-01-01,Colgate,FMCG,6919
 2010-01-01,Morgan Stanley,Financial Services,6911
 2010-01-01,Volkswagen,Automotive,6892
@@ -1074,32 +1074,32 @@ date,name,category,value
 2010-01-01,Harley-Davidson,Automotive,3281
 2010-01-01,Campbell's,FMCG,3241
 2010-01-01,Burberry,Luxury,3110
-2011-01-01,San Juan,Beverages,71861
-2011-01-01,Aguadilla,Business Services,69905
-2011-01-01,Aguada,Technology,59087
-2011-01-01,Ceiba,Technology,55317
-2011-01-01,Aibonito,Diversified,42808
-2011-01-01,Arecibo,Restaurants,35593
-2011-01-01,Aguas Buenas,Technology,35217
-2011-01-01,Santa Isabel,Technology,33492
-2011-01-01,Bayamón,Media,29018
-2011-01-01,Cabo Rojo,Electronics,28479
-2011-01-01,Caguas,Automotive,27764
-2011-01-01,Barranquitas,Automotive,27445
+2011-01-01,Coca-Cola,Beverages,71861
+2011-01-01,IBM,Business Services,69905
+2011-01-01,Microsoft,Technology,59087
+2011-01-01,Google,Technology,55317
+2011-01-01,GE,Diversified,42808
+2011-01-01,McDonald's,Restaurants,35593
+2011-01-01,Intel,Technology,35217
+2011-01-01,Apple,Technology,33492
+2011-01-01,Disney,Media,29018
+2011-01-01,HP,Electronics,28479
+2011-01-01,Toyota,Automotive,27764
+2011-01-01,Mercedes-Benz,Automotive,27445
 2011-01-01,Cisco,Business Services,25309
-2011-01-01,Adjuntas,Technology,25071
+2011-01-01,Nokia,Technology,25071
 2011-01-01,BMW,Automotive,24554
-2011-01-01,Canóvanas,FMCG,23997
-2011-01-01,Río Grande,Technology,23430
+2011-01-01,Gillette,FMCG,23997
+2011-01-01,Samsung,Technology,23430
 2011-01-01,Louis Vuitton,Luxury,23172
-2011-01-01,Cayey,Automotive,19431
+2011-01-01,Honda,Automotive,19431
 2011-01-01,Oracle,Business Services,17262
 2011-01-01,H&M,Apparel,16459
 2011-01-01,Pepsi,Beverages,14590
-2011-01-01,Cataño,Financial Services,14572
+2011-01-01,American Express,Financial Services,14572
 2011-01-01,SAP,Business Services,14542
 2011-01-01,Nike,Sporting Goods,14528
-2011-01-01,Gurabo,Technology,12758
+2011-01-01,Amazon,Technology,12758
 2011-01-01,UPS,Logistics,12536
 2011-01-01,J.P. Morgan,Financial Services,12437
 2011-01-01,Budweiser,Alcohol,12252
@@ -1108,14 +1108,14 @@ date,name,category,value
 2011-01-01,HSBC,Financial Services,11792
 2011-01-01,Canon,Electronics,11715
 2011-01-01,Kellogg's,FMCG,11372
-2011-01-01,Carolina,Electronics,9880
+2011-01-01,Sony,Electronics,9880
 2011-01-01,eBay,Retail,9805
 2011-01-01,Thomson Reuters,Media,9515
 2011-01-01,Goldman Sachs,Financial Services,9091
 2011-01-01,Gucci,Luxury,8763
 2011-01-01,L'Oréal,FMCG,8699
 2011-01-01,Philips,Electronics,8658
-2011-01-01,Camuy,Financial Services,8620
+2011-01-01,Citi,Financial Services,8620
 2011-01-01,Dell,Electronics,8347
 2011-01-01,Zara,Apparel,8065
 2011-01-01,Accenture,Business Services,8005
@@ -1123,7 +1123,7 @@ date,name,category,value
 2011-01-01,Volkswagen,Automotive,7857
 2011-01-01,Nintendo,Electronics,7731
 2011-01-01,Heinz,FMCG,7609
-2011-01-01,Añasco,Automotive,7483
+2011-01-01,Ford,Automotive,7483
 2011-01-01,Colgate,FMCG,7127
 2011-01-01,Danone,FMCG,6936
 2011-01-01,AXA,Financial Services,6694
@@ -1174,30 +1174,30 @@ date,name,category,value
 2011-01-01,HTC,Electronics,3605
 2011-01-01,Ferrari,Automotive,3591
 2011-01-01,Harley-Davidson,Automotive,3512
-2012-01-01,San Juan,Beverages,77839
-2012-01-01,Santa Isabel,Technology,76568
-2012-01-01,Aguadilla,Business Services,75532
-2012-01-01,Ceiba,Technology,69726
-2012-01-01,Aguada,Technology,57853
-2012-01-01,Aibonito,Diversified,43682
-2012-01-01,Arecibo,Restaurants,40062
-2012-01-01,Aguas Buenas,Technology,39385
-2012-01-01,Río Grande,Technology,32893
-2012-01-01,Caguas,Automotive,30280
-2012-01-01,Barranquitas,Automotive,30097
+2012-01-01,Coca-Cola,Beverages,77839
+2012-01-01,Apple,Technology,76568
+2012-01-01,IBM,Business Services,75532
+2012-01-01,Google,Technology,69726
+2012-01-01,Microsoft,Technology,57853
+2012-01-01,GE,Diversified,43682
+2012-01-01,McDonald's,Restaurants,40062
+2012-01-01,Intel,Technology,39385
+2012-01-01,Samsung,Technology,32893
+2012-01-01,Toyota,Automotive,30280
+2012-01-01,Mercedes-Benz,Automotive,30097
 2012-01-01,BMW,Automotive,29052
-2012-01-01,Bayamón,Media,27438
+2012-01-01,Disney,Media,27438
 2012-01-01,Cisco,Business Services,27197
-2012-01-01,Cabo Rojo,Electronics,26087
-2012-01-01,Canóvanas,FMCG,24898
+2012-01-01,HP,Electronics,26087
+2012-01-01,Gillette,FMCG,24898
 2012-01-01,Louis Vuitton,Luxury,23577
 2012-01-01,Oracle,Business Services,22126
-2012-01-01,Adjuntas,Technology,21009
-2012-01-01,Gurabo,Technology,18625
-2012-01-01,Cayey,Automotive,17280
+2012-01-01,Nokia,Technology,21009
+2012-01-01,Amazon,Technology,18625
+2012-01-01,Honda,Automotive,17280
 2012-01-01,Pepsi,Beverages,16594
 2012-01-01,H&M,Apparel,16571
-2012-01-01,Cataño,Financial Services,15702
+2012-01-01,American Express,Financial Services,15702
 2012-01-01,SAP,Business Services,15641
 2012-01-01,Nike,Sporting Goods,15126
 2012-01-01,UPS,Logistics,13088
@@ -1213,17 +1213,17 @@ date,name,category,value
 2012-01-01,Zara,Apparel,9488
 2012-01-01,Gucci,Luxury,9446
 2012-01-01,Volkswagen,Automotive,9252
-2012-01-01,Carolina,Electronics,9111
+2012-01-01,Sony,Electronics,9111
 2012-01-01,Philips,Electronics,9066
 2012-01-01,L'Oréal,FMCG,8821
 2012-01-01,Accenture,Business Services,8745
 2012-01-01,Thomson Reuters,Media,8444
-2012-01-01,Añasco,Automotive,7958
+2012-01-01,Ford,Automotive,7958
 2012-01-01,Heinz,FMCG,7722
 2012-01-01,Colgate,FMCG,7643
 2012-01-01,Goldman Sachs,Financial Services,7599
 2012-01-01,Dell,Electronics,7591
-2012-01-01,Camuy,Financial Services,7570
+2012-01-01,Citi,Financial Services,7570
 2012-01-01,Siemens,Diversified,7534
 2012-01-01,Danone,FMCG,7498
 2012-01-01,Hyundai,Automotive,7473
@@ -1242,7 +1242,7 @@ date,name,category,value
 2012-01-01,Sprite,Beverages,5709
 2012-01-01,MTV,Media,5648
 2012-01-01,Cartier,Luxury,5495
-2012-01-01,Ponce,Technology,5421
+2012-01-01,Facebook,Technology,5421
 2012-01-01,Tiffany & Co.,Luxury,5159
 2012-01-01,Avon,FMCG,5151
 2012-01-01,Porsche,Automotive,5149
@@ -1274,29 +1274,29 @@ date,name,category,value
 2012-01-01,Moët & Chandon,Alcohol,3824
 2012-01-01,Ferrari,Automotive,3770
 2012-01-01,Gap,Apparel,3731
-2013-01-01,Santa Isabel,Technology,98316
-2013-01-01,Ceiba,Technology,93291
-2013-01-01,San Juan,Beverages,79213
-2013-01-01,Aguadilla,Business Services,78808
-2013-01-01,Aguada,Technology,59546
-2013-01-01,Aibonito,Diversified,46947
-2013-01-01,Arecibo,Restaurants,41992
-2013-01-01,Río Grande,Technology,39610
-2013-01-01,Aguas Buenas,Technology,37257
-2013-01-01,Caguas,Automotive,35346
-2013-01-01,Barranquitas,Automotive,31904
+2013-01-01,Apple,Technology,98316
+2013-01-01,Google,Technology,93291
+2013-01-01,Coca-Cola,Beverages,79213
+2013-01-01,IBM,Business Services,78808
+2013-01-01,Microsoft,Technology,59546
+2013-01-01,GE,Diversified,46947
+2013-01-01,McDonald's,Restaurants,41992
+2013-01-01,Samsung,Technology,39610
+2013-01-01,Intel,Technology,37257
+2013-01-01,Toyota,Automotive,35346
+2013-01-01,Mercedes-Benz,Automotive,31904
 2013-01-01,BMW,Automotive,31839
 2013-01-01,Cisco,Business Services,29053
-2013-01-01,Bayamón,Media,28147
-2013-01-01,Cabo Rojo,Electronics,25843
-2013-01-01,Canóvanas,FMCG,25105
+2013-01-01,Disney,Media,28147
+2013-01-01,HP,Electronics,25843
+2013-01-01,Gillette,FMCG,25105
 2013-01-01,Louis Vuitton,Luxury,24893
 2013-01-01,Oracle,Business Services,24088
-2013-01-01,Gurabo,Technology,23620
-2013-01-01,Cayey,Automotive,18490
+2013-01-01,Amazon,Technology,23620
+2013-01-01,Honda,Automotive,18490
 2013-01-01,H&M,Apparel,18168
 2013-01-01,Pepsi,Beverages,17892
-2013-01-01,Cataño,Financial Services,17646
+2013-01-01,American Express,Financial Services,17646
 2013-01-01,Nike,Sporting Goods,17085
 2013-01-01,SAP,Business Services,16676
 2013-01-01,IKEA,Retail,13818
@@ -1315,22 +1315,22 @@ date,name,category,value
 2013-01-01,L'Oréal,FMCG,9874
 2013-01-01,Philips,Electronics,9813
 2013-01-01,Accenture,Business Services,9471
-2013-01-01,Añasco,Automotive,9181
+2013-01-01,Ford,Automotive,9181
 2013-01-01,Hyundai,Automotive,9004
 2013-01-01,Goldman Sachs,Financial Services,8536
 2013-01-01,Siemens,Diversified,8503
-2013-01-01,Carolina,Electronics,8408
+2013-01-01,Sony,Electronics,8408
 2013-01-01,Thomson Reuters,Media,8103
-2013-01-01,Camuy,Financial Services,7973
+2013-01-01,Citi,Financial Services,7973
 2013-01-01,Danone,FMCG,7968
 2013-01-01,Colgate,FMCG,7833
 2013-01-01,Audi,Automotive,7767
-2013-01-01,Ponce,Technology,7732
+2013-01-01,Facebook,Technology,7732
 2013-01-01,Heinz,FMCG,7648
 2013-01-01,Hermès,Luxury,7616
 2013-01-01,adidas,Sporting Goods,7535
 2013-01-01,Nestlé,FMCG,7527
-2013-01-01,Adjuntas,Technology,7444
+2013-01-01,Nokia,Technology,7444
 2013-01-01,Caterpillar,Diversified,7125
 2013-01-01,AXA,Financial Services,7096
 2013-01-01,Cartier,Luxury,6897
@@ -1374,35 +1374,35 @@ date,name,category,value
 2013-01-01,Ferrari,Automotive,4013
 2013-01-01,Moët & Chandon,Alcohol,3943
 2013-01-01,Gap,Apparel,3920
-2014-01-01,Santa Isabel,Technology,118863
-2014-01-01,Ceiba,Technology,107439
-2014-01-01,San Juan,Beverages,81563
-2014-01-01,Aguadilla,Business Services,72244
-2014-01-01,Aguada,Technology,61154
-2014-01-01,Aibonito,Diversified,45480
-2014-01-01,Río Grande,Technology,45462
-2014-01-01,Caguas,Automotive,42392
-2014-01-01,Arecibo,Restaurants,42254
-2014-01-01,Barranquitas,Automotive,34338
+2014-01-01,Apple,Technology,118863
+2014-01-01,Google,Technology,107439
+2014-01-01,Coca-Cola,Beverages,81563
+2014-01-01,IBM,Business Services,72244
+2014-01-01,Microsoft,Technology,61154
+2014-01-01,GE,Diversified,45480
+2014-01-01,Samsung,Technology,45462
+2014-01-01,Toyota,Automotive,42392
+2014-01-01,McDonald's,Restaurants,42254
+2014-01-01,Mercedes-Benz,Automotive,34338
 2014-01-01,BMW,Automotive,34214
-2014-01-01,Aguas Buenas,Technology,34153
-2014-01-01,Bayamón,Media,32223
+2014-01-01,Intel,Technology,34153
+2014-01-01,Disney,Media,32223
 2014-01-01,Cisco,Business Services,30936
-2014-01-01,Gurabo,Technology,29478
+2014-01-01,Amazon,Technology,29478
 2014-01-01,Oracle,Business Services,25980
-2014-01-01,Cabo Rojo,Electronics,23758
-2014-01-01,Canóvanas,FMCG,22845
+2014-01-01,HP,Electronics,23758
+2014-01-01,Gillette,FMCG,22845
 2014-01-01,Louis Vuitton,Luxury,22552
-2014-01-01,Cayey,Automotive,21673
+2014-01-01,Honda,Automotive,21673
 2014-01-01,H&M,Apparel,21083
 2014-01-01,Nike,Sporting Goods,19875
-2014-01-01,Cataño,Financial Services,19510
+2014-01-01,American Express,Financial Services,19510
 2014-01-01,Pepsi,Beverages,19119
 2014-01-01,SAP,Business Services,17340
 2014-01-01,IKEA,Retail,15885
 2014-01-01,UPS,Logistics,14470
 2014-01-01,eBay,Retail,14358
-2014-01-01,Ponce,Technology,14349
+2014-01-01,Facebook,Technology,14349
 2014-01-01,Pampers,FMCG,14078
 2014-01-01,Volkswagen,Automotive,13716
 2014-01-01,Kellogg's,FMCG,13442
@@ -1412,7 +1412,7 @@ date,name,category,value
 2014-01-01,Zara,Apparel,12126
 2014-01-01,Canon,Electronics,11702
 2014-01-01,NESCAFÉ,Beverages,11406
-2014-01-01,Añasco,Automotive,10876
+2014-01-01,Ford,Automotive,10876
 2014-01-01,Hyundai,Automotive,10409
 2014-01-01,Gucci,Luxury,10385
 2014-01-01,Philips,Electronics,10264
@@ -1421,11 +1421,11 @@ date,name,category,value
 2014-01-01,Audi,Automotive,9831
 2014-01-01,Hermès,Luxury,8977
 2014-01-01,Goldman Sachs,Financial Services,8758
-2014-01-01,Camuy,Financial Services,8737
+2014-01-01,Citi,Financial Services,8737
 2014-01-01,Siemens,Diversified,8672
 2014-01-01,Colgate,FMCG,8215
 2014-01-01,Danone,FMCG,8205
-2014-01-01,Carolina,Electronics,8133
+2014-01-01,Sony,Electronics,8133
 2014-01-01,AXA,Financial Services,8120
 2014-01-01,Nestlé,FMCG,8000
 2014-01-01,Allianz,Financial Services,7702
@@ -1471,34 +1471,34 @@ date,name,category,value
 2014-01-01,Heineken,Alcohol,4221
 2014-01-01,Pizza Hut,Restaurants,4196
 2014-01-01,Hugo Boss,Apparel,4143
-2014-01-01,Adjuntas,Technology,4138
+2014-01-01,Nokia,Technology,4138
 2014-01-01,Gap,Apparel,4122
 2014-01-01,Nintendo,Electronics,4103
-2015-01-01,Santa Isabel,Technology,170276
-2015-01-01,Ceiba,Technology,120314
-2015-01-01,San Juan,Beverages,78423
-2015-01-01,Aguada,Technology,67670
-2015-01-01,Aguadilla,Business Services,65095
-2015-01-01,Caguas,Automotive,49048
-2015-01-01,Río Grande,Technology,45297
-2015-01-01,Aibonito,Diversified,42267
-2015-01-01,Arecibo,Restaurants,39809
-2015-01-01,Gurabo,Technology,37948
+2015-01-01,Apple,Technology,170276
+2015-01-01,Google,Technology,120314
+2015-01-01,Coca-Cola,Beverages,78423
+2015-01-01,Microsoft,Technology,67670
+2015-01-01,IBM,Business Services,65095
+2015-01-01,Toyota,Automotive,49048
+2015-01-01,Samsung,Technology,45297
+2015-01-01,GE,Diversified,42267
+2015-01-01,McDonald's,Restaurants,39809
+2015-01-01,Amazon,Technology,37948
 2015-01-01,BMW,Automotive,37212
-2015-01-01,Barranquitas,Automotive,36711
-2015-01-01,Bayamón,Media,36514
-2015-01-01,Aguas Buenas,Technology,35415
+2015-01-01,Mercedes-Benz,Automotive,36711
+2015-01-01,Disney,Media,36514
+2015-01-01,Intel,Technology,35415
 2015-01-01,Cisco,Business Services,29854
 2015-01-01,Oracle,Business Services,27283
 2015-01-01,Nike,Sporting Goods,23070
-2015-01-01,Cabo Rojo,Electronics,23056
-2015-01-01,Cayey,Automotive,22975
+2015-01-01,HP,Electronics,23056
+2015-01-01,Honda,Automotive,22975
 2015-01-01,Louis Vuitton,Luxury,22250
 2015-01-01,H&M,Apparel,22222
-2015-01-01,Canóvanas,FMCG,22218
-2015-01-01,Ponce,Technology,22029
+2015-01-01,Gillette,FMCG,22218
+2015-01-01,Facebook,Technology,22029
 2015-01-01,Pepsi,Beverages,19622
-2015-01-01,Cataño,Financial Services,18922
+2015-01-01,American Express,Financial Services,18922
 2015-01-01,SAP,Business Services,18768
 2015-01-01,IKEA,Retail,16541
 2015-01-01,Pampers,FMCG,15267
@@ -1511,14 +1511,14 @@ date,name,category,value
 2015-01-01,Volkswagen,Automotive,12545
 2015-01-01,NESCAFÉ,Beverages,12257
 2015-01-01,HSBC,Financial Services,11656
-2015-01-01,Añasco,Automotive,11578
+2015-01-01,Ford,Automotive,11578
 2015-01-01,Hyundai,Automotive,11293
 2015-01-01,Canon,Electronics,11278
 2015-01-01,Hermès,Luxury,10944
 2015-01-01,Accenture,Business Services,10800
 2015-01-01,L'Oréal,FMCG,10798
 2015-01-01,Audi,Automotive,10328
-2015-01-01,Camuy,Financial Services,9784
+2015-01-01,Citi,Financial Services,9784
 2015-01-01,Goldman Sachs,Financial Services,9526
 2015-01-01,Philips,Electronics,9400
 2015-01-01,AXA,Financial Services,9254
@@ -1531,7 +1531,7 @@ date,name,category,value
 2015-01-01,Colgate,FMCG,8464
 2015-01-01,Porsche,Automotive,8055
 2015-01-01,Cartier,Luxury,7924
-2015-01-01,Carolina,Electronics,7702
+2015-01-01,Sony,Electronics,7702
 2015-01-01,3M,Diversified,7243
 2015-01-01,Morgan Stanley,Financial Services,7083
 2015-01-01,Visa,Financial Services,6870
@@ -1574,31 +1574,31 @@ date,name,category,value
 2015-01-01,MINI,Automotive,4243
 2015-01-01,Moët & Chandon,Alcohol,4131
 2015-01-01,Lenovo,Technology,4114
-2016-01-01,Santa Isabel,Technology,178119
-2016-01-01,Ceiba,Technology,133252
-2016-01-01,San Juan,Beverages,73102
-2016-01-01,Aguada,Technology,72795
-2016-01-01,Caguas,Automotive,53580
-2016-01-01,Aguadilla,Business Services,52500
-2016-01-01,Río Grande,Technology,51808
-2016-01-01,Gurabo,Technology,50338
-2016-01-01,Barranquitas,Automotive,43490
-2016-01-01,Aibonito,Diversified,43130
+2016-01-01,Apple,Technology,178119
+2016-01-01,Google,Technology,133252
+2016-01-01,Coca-Cola,Beverages,73102
+2016-01-01,Microsoft,Technology,72795
+2016-01-01,Toyota,Automotive,53580
+2016-01-01,IBM,Business Services,52500
+2016-01-01,Samsung,Technology,51808
+2016-01-01,Amazon,Technology,50338
+2016-01-01,Mercedes-Benz,Automotive,43490
+2016-01-01,GE,Diversified,43130
 2016-01-01,BMW,Automotive,41535
-2016-01-01,Arecibo,Restaurants,39381
-2016-01-01,Bayamón,Media,38790
-2016-01-01,Aguas Buenas,Technology,36952
-2016-01-01,Ponce,Technology,32593
+2016-01-01,McDonald's,Restaurants,39381
+2016-01-01,Disney,Media,38790
+2016-01-01,Intel,Technology,36952
+2016-01-01,Facebook,Technology,32593
 2016-01-01,Cisco,Business Services,30948
 2016-01-01,Oracle,Business Services,26552
 2016-01-01,Nike,Sporting Goods,25034
 2016-01-01,Louis Vuitton,Luxury,23998
 2016-01-01,H&M,Apparel,22681
-2016-01-01,Cayey,Automotive,22106
+2016-01-01,Honda,Automotive,22106
 2016-01-01,SAP,Business Services,21293
 2016-01-01,Pepsi,Beverages,20265
-2016-01-01,Canóvanas,FMCG,19950
-2016-01-01,Cataño,Financial Services,18358
+2016-01-01,Gillette,FMCG,19950
+2016-01-01,American Express,Financial Services,18358
 2016-01-01,IKEA,Retail,17834
 2016-01-01,Zara,Apparel,16766
 2016-01-01,Pampers,FMCG,16134
@@ -1606,7 +1606,7 @@ date,name,category,value
 2016-01-01,Budweiser,Alcohol,15099
 2016-01-01,J.P. Morgan,Financial Services,14227
 2016-01-01,eBay,Retail,13136
-2016-01-01,Añasco,Automotive,12962
+2016-01-01,Ford,Automotive,12962
 2016-01-01,Hermès,Luxury,12833
 2016-01-01,Hyundai,Automotive,12547
 2016-01-01,NESCAFÉ,Beverages,12517
@@ -1621,8 +1621,8 @@ date,name,category,value
 2016-01-01,L'Oréal,FMCG,10930
 2016-01-01,AXA,Financial Services,10579
 2016-01-01,HSBC,Financial Services,10458
-2016-01-01,Cabo Rojo,Electronics,10386
-2016-01-01,Camuy,Financial Services,10276
+2016-01-01,HP,Electronics,10386
+2016-01-01,Citi,Financial Services,10276
 2016-01-01,Porsche,Automotive,9537
 2016-01-01,Allianz,Financial Services,9528
 2016-01-01,Siemens,Diversified,9415
@@ -1631,7 +1631,7 @@ date,name,category,value
 2016-01-01,Danone,FMCG,9197
 2016-01-01,Nestlé,FMCG,8708
 2016-01-01,Colgate,FMCG,8413
-2016-01-01,Carolina,Electronics,8315
+2016-01-01,Sony,Electronics,8315
 2016-01-01,3M,Diversified,8199
 2016-01-01,adidas,Sporting Goods,7885
 2016-01-01,Visa,Financial Services,7747
@@ -1674,39 +1674,39 @@ date,name,category,value
 2016-01-01,Ralph Lauren,Apparel,4092
 2016-01-01,Lenovo,Technology,4045
 2016-01-01,Tesla,Automotive,4011
-2017-01-01,Santa Isabel,Technology,184154
-2017-01-01,Ceiba,Technology,141703
-2017-01-01,Aguada,Technology,79999
-2017-01-01,San Juan,Beverages,69733
-2017-01-01,Gurabo,Technology,64796
-2017-01-01,Río Grande,Technology,56249
-2017-01-01,Caguas,Automotive,50291
-2017-01-01,Ponce,Technology,48188
-2017-01-01,Barranquitas,Automotive,47829
-2017-01-01,Aguadilla,Business Services,46829
-2017-01-01,Aibonito,Diversified,44208
-2017-01-01,Arecibo,Restaurants,41533
+2017-01-01,Apple,Technology,184154
+2017-01-01,Google,Technology,141703
+2017-01-01,Microsoft,Technology,79999
+2017-01-01,Coca-Cola,Beverages,69733
+2017-01-01,Amazon,Technology,64796
+2017-01-01,Samsung,Technology,56249
+2017-01-01,Toyota,Automotive,50291
+2017-01-01,Facebook,Technology,48188
+2017-01-01,Mercedes-Benz,Automotive,47829
+2017-01-01,IBM,Business Services,46829
+2017-01-01,GE,Diversified,44208
+2017-01-01,McDonald's,Restaurants,41533
 2017-01-01,BMW,Automotive,41521
-2017-01-01,Bayamón,Media,40772
-2017-01-01,Aguas Buenas,Technology,39459
+2017-01-01,Disney,Media,40772
+2017-01-01,Intel,Technology,39459
 2017-01-01,Cisco,Business Services,31930
 2017-01-01,Oracle,Business Services,27466
 2017-01-01,Nike,Sporting Goods,27021
 2017-01-01,Louis Vuitton,Luxury,22919
-2017-01-01,Cayey,Automotive,22696
+2017-01-01,Honda,Automotive,22696
 2017-01-01,SAP,Business Services,22635
 2017-01-01,Pepsi,Beverages,20491
 2017-01-01,H&M,Apparel,20488
 2017-01-01,Zara,Apparel,18573
 2017-01-01,IKEA,Retail,18472
-2017-01-01,Canóvanas,FMCG,18200
-2017-01-01,Cataño,Financial Services,17787
+2017-01-01,Gillette,FMCG,18200
+2017-01-01,American Express,Financial Services,17787
 2017-01-01,Pampers,FMCG,16416
 2017-01-01,UPS,Logistics,16387
 2017-01-01,J.P. Morgan,Financial Services,15749
 2017-01-01,Budweiser,Alcohol,15375
 2017-01-01,Hermès,Luxury,14210
-2017-01-01,Añasco,Automotive,13643
+2017-01-01,Ford,Automotive,13643
 2017-01-01,eBay,Retail,13224
 2017-01-01,Hyundai,Automotive,13193
 2017-01-01,NESCAFÉ,Beverages,12661
@@ -1719,14 +1719,14 @@ date,name,category,value
 2017-01-01,Kellogg's,FMCG,10972
 2017-01-01,Goldman Sachs,Financial Services,10864
 2017-01-01,L'Oréal,FMCG,10674
-2017-01-01,Camuy,Financial Services,10599
+2017-01-01,Citi,Financial Services,10599
 2017-01-01,HSBC,Financial Services,10534
 2017-01-01,Porsche,Automotive,10129
 2017-01-01,Allianz,Financial Services,10059
 2017-01-01,Siemens,Diversified,9982
 2017-01-01,Gucci,Luxury,9969
 2017-01-01,Canon,Electronics,9788
-2017-01-01,Cabo Rojo,Electronics,9541
+2017-01-01,HP,Electronics,9541
 2017-01-01,Danone,FMCG,9322
 2017-01-01,adidas,Sporting Goods,9216
 2017-01-01,Adobe,Business Services,9060
@@ -1734,7 +1734,7 @@ date,name,category,value
 2017-01-01,3M,Diversified,8947
 2017-01-01,Nestlé,FMCG,8728
 2017-01-01,Starbucks,Restaurants,8704
-2017-01-01,Carolina,Electronics,8474
+2017-01-01,Sony,Electronics,8474
 2017-01-01,Colgate,FMCG,8325
 2017-01-01,Morgan Stanley,Financial Services,8205
 2017-01-01,Visa,Financial Services,7815
@@ -1774,41 +1774,41 @@ date,name,category,value
 2017-01-01,Tesla,Automotive,4009
 2017-01-01,Moët & Chandon,Alcohol,4006
 2017-01-01,Lenovo,Technology,4004
-2018-01-01,Santa Isabel,Technology,214480
-2018-01-01,Ceiba,Technology,155506
-2018-01-01,Gurabo,Technology,100764
-2018-01-01,Aguada,Technology,92715
-2018-01-01,San Juan,Beverages,66341
-2018-01-01,Río Grande,Technology,59890
-2018-01-01,Caguas,Automotive,53404
-2018-01-01,Barranquitas,Automotive,48601
-2018-01-01,Ponce,Technology,45168
-2018-01-01,Arecibo,Restaurants,43417
-2018-01-01,Aguas Buenas,Technology,43293
-2018-01-01,Aguadilla,Business Services,42972
+2018-01-01,Apple,Technology,214480
+2018-01-01,Google,Technology,155506
+2018-01-01,Amazon,Technology,100764
+2018-01-01,Microsoft,Technology,92715
+2018-01-01,Coca-Cola,Beverages,66341
+2018-01-01,Samsung,Technology,59890
+2018-01-01,Toyota,Automotive,53404
+2018-01-01,Mercedes-Benz,Automotive,48601
+2018-01-01,Facebook,Technology,45168
+2018-01-01,McDonald's,Restaurants,43417
+2018-01-01,Intel,Technology,43293
+2018-01-01,IBM,Business Services,42972
 2018-01-01,BMW,Automotive,41006
-2018-01-01,Bayamón,Media,39874
+2018-01-01,Disney,Media,39874
 2018-01-01,Cisco,Business Services,34575
-2018-01-01,Aibonito,Diversified,32757
+2018-01-01,GE,Diversified,32757
 2018-01-01,Nike,Sporting Goods,30120
 2018-01-01,Louis Vuitton,Luxury,28152
 2018-01-01,Oracle,Business Services,26133
-2018-01-01,Cayey,Automotive,23682
+2018-01-01,Honda,Automotive,23682
 2018-01-01,SAP,Business Services,22885
 2018-01-01,Pepsi,Beverages,20798
 2018-01-01,Chanel,Luxury,20005
-2018-01-01,Cataño,Financial Services,19139
+2018-01-01,American Express,Financial Services,19139
 2018-01-01,Zara,Apparel,17712
 2018-01-01,J.P. Morgan,Financial Services,17567
 2018-01-01,IKEA,Retail,17458
-2018-01-01,Canóvanas,FMCG,16864
+2018-01-01,Gillette,FMCG,16864
 2018-01-01,UPS,Logistics,16849
 2018-01-01,H&M,Apparel,16826
 2018-01-01,Pampers,FMCG,16617
 2018-01-01,Hermès,Luxury,16372
 2018-01-01,Budweiser,Alcohol,15627
 2018-01-01,Accenture,Business Services,14214
-2018-01-01,Añasco,Automotive,13995
+2018-01-01,Ford,Automotive,13995
 2018-01-01,Hyundai,Automotive,13535
 2018-01-01,NESCAFÉ,Beverages,13053
 2018-01-01,eBay,Retail,13017
@@ -1818,7 +1818,7 @@ date,name,category,value
 2018-01-01,Audi,Automotive,12187
 2018-01-01,Philips,Electronics,12104
 2018-01-01,Goldman Sachs,Financial Services,11769
-2018-01-01,Camuy,Financial Services,11577
+2018-01-01,Citi,Financial Services,11577
 2018-01-01,HSBC,Financial Services,11208
 2018-01-01,AXA,Financial Services,11118
 2018-01-01,L'Oréal,FMCG,11102
@@ -1827,12 +1827,12 @@ date,name,category,value
 2018-01-01,Adobe,Business Services,10748
 2018-01-01,Porsche,Automotive,10707
 2018-01-01,Kellogg's,FMCG,10634
-2018-01-01,Cabo Rojo,Electronics,10433
+2018-01-01,HP,Electronics,10433
 2018-01-01,Canon,Electronics,10380
 2018-01-01,Siemens,Diversified,10132
 2018-01-01,Starbucks,Restaurants,9615
 2018-01-01,Danone,FMCG,9533
-2018-01-01,Carolina,Electronics,9316
+2018-01-01,Sony,Electronics,9316
 2018-01-01,3M,Diversified,9104
 2018-01-01,Visa,Financial Services,9021
 2018-01-01,Nestlé,FMCG,8938
@@ -1874,29 +1874,29 @@ date,name,category,value
 2018-01-01,Hennessy,Alcohol,4722
 2018-01-01,Nintendo,Electronics,4696
 2018-01-01,Subaru,Automotive,4214
-2019-01-01,Santa Isabel,Technology,234241
-2019-01-01,Ceiba,Technology,167713
-2019-01-01,Gurabo,Technology,125263
-2019-01-01,Aguada,Technology,108847
-2019-01-01,San Juan,Beverages,63365
-2019-01-01,Río Grande,Technology,61098
-2019-01-01,Caguas,Automotive,56246
-2019-01-01,Barranquitas,Automotive,50832
-2019-01-01,Arecibo,Restaurants,45362
-2019-01-01,Bayamón,Media,44352
+2019-01-01,Apple,Technology,234241
+2019-01-01,Google,Technology,167713
+2019-01-01,Amazon,Technology,125263
+2019-01-01,Microsoft,Technology,108847
+2019-01-01,Coca-Cola,Beverages,63365
+2019-01-01,Samsung,Technology,61098
+2019-01-01,Toyota,Automotive,56246
+2019-01-01,Mercedes-Benz,Automotive,50832
+2019-01-01,McDonald's,Restaurants,45362
+2019-01-01,Disney,Media,44352
 2019-01-01,BMW,Automotive,41440
-2019-01-01,Aguadilla,Business Services,40381
-2019-01-01,Aguas Buenas,Technology,40197
-2019-01-01,Ponce,Technology,39857
+2019-01-01,IBM,Business Services,40381
+2019-01-01,Intel,Technology,40197
+2019-01-01,Facebook,Technology,39857
 2019-01-01,Cisco,Business Services,35559
 2019-01-01,Nike,Sporting Goods,32376
 2019-01-01,Louis Vuitton,Luxury,32223
 2019-01-01,Oracle,Business Services,26288
-2019-01-01,Aibonito,Diversified,25566
+2019-01-01,GE,Diversified,25566
 2019-01-01,SAP,Business Services,25092
-2019-01-01,Cayey,Automotive,24422
+2019-01-01,Honda,Automotive,24422
 2019-01-01,Chanel,Luxury,22134
-2019-01-01,Cataño,Financial Services,21629
+2019-01-01,American Express,Financial Services,21629
 2019-01-01,Pepsi,Beverages,20488
 2019-01-01,J.P. Morgan,Financial Services,19044
 2019-01-01,IKEA,Retail,18407
@@ -1908,13 +1908,13 @@ date,name,category,value
 2019-01-01,Budweiser,Alcohol,16018
 2019-01-01,Gucci,Luxury,15949
 2019-01-01,Pampers,FMCG,15773
-2019-01-01,Añasco,Automotive,14325
+2019-01-01,Ford,Automotive,14325
 2019-01-01,Hyundai,Automotive,14156
-2019-01-01,Canóvanas,FMCG,13753
+2019-01-01,Gillette,FMCG,13753
 2019-01-01,NESCAFÉ,Beverages,13605
 2019-01-01,Adobe,Business Services,12937
 2019-01-01,Volkswagen,Automotive,12921
-2019-01-01,Camuy,Financial Services,12697
+2019-01-01,Citi,Financial Services,12697
 2019-01-01,Audi,Automotive,12689
 2019-01-01,Allianz,Financial Services,12078
 2019-01-01,eBay,Retail,12010
@@ -1927,9 +1927,9 @@ date,name,category,value
 2019-01-01,L'Oréal,FMCG,11589
 2019-01-01,Nissan,Automotive,11502
 2019-01-01,Goldman Sachs,Financial Services,11352
-2019-01-01,Cabo Rojo,Electronics,10891
+2019-01-01,HP,Electronics,10891
 2019-01-01,Visa,Financial Services,10756
-2019-01-01,Carolina,Electronics,10514
+2019-01-01,Sony,Electronics,10514
 2019-01-01,Kellogg's,FMCG,10419
 2019-01-01,Siemens,Diversified,10259
 2019-01-01,Danone,FMCG,9915
